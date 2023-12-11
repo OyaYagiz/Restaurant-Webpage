@@ -406,6 +406,11 @@ a {
     width: 6.5rem;
     height: 6.5rem;
     border: 0.2rem solid var(--main-color);
+    cursor: pointer;
+}
+.products .box-container .box-bottom .product-btn a:hover{
+    opacity: 0.4;
+    background-color: rgba(148, 10, 10, 0.397);
 }
 
 .products .box-container .box-bottom .product-btn a i {
